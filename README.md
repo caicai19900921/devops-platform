@@ -127,5 +127,3 @@ pod终端
 6. 事件管理
 ![image](https://user-images.githubusercontent.com/32893009/199179391-01445919-c7d3-466e-bcd9-6a6b04ae8fb3.png)
 
-
-![image](https://user-images.githubusercontent.com/32893009/199178801-38949410-a249-40cc-b9bd-d57e525e2865.png)
